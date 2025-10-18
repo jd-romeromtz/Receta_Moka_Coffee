@@ -12,6 +12,8 @@ h1{
     height: 350px;
     display: block;
     margin: 0 auto;
+    background-color: lightblue;
+box-shadow: 10px 10px 5px #888888;
 }
 li {
     font-family: 'Verdana', sans-serif;
